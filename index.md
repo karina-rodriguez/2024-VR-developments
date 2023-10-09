@@ -2,8 +2,8 @@
 site: sandpaper::sandpaper_site
 ---
 
-This is a new lesson built with [The Carpentries Workbench][workbench]. 
+Welcome to Virtual Reality Systems - past and future session!
 
+No setup is required for this session..
 
-[workbench]: https://carpentries.github.io/sandpaper-docs
 

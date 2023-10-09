@@ -2,4 +2,7 @@
 title: Instructor Notes
 ---
 
-This is a placeholder file. Please add content here.
+
+No instructor notes for this session.
+
+It is mostly an overview of past and future of VR.
