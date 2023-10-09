@@ -51,14 +51,16 @@ John Barlow, Esther Dyson, Timothy Leary, William Bricken, Warren Robinett, Jaro
 
 ## Fast forward since 1990s
 
-[![History VR](https://i.ytimg.com/vi/43mA_ypfwKg/hqdefault.jpg)](https://www.youtube.com/watch?v=HelrQnm3v4g "History of Virtual Reality - Reality Check &copy; GameSpot")
+[![History VR](https://i.ytimg.com/vi/43mA_ypfwKg/hqdefault.jpg)](https://www.youtube.com/watch?v=HelrQnm3v4g "History of Virtual Reality - Reality Check &copy; GameSpot"){alt="video"}
 
-[![History AR](https://i.ytimg.com/vi/_m44ynMTogY/hqdefault.jpg)](https://www.youtube.com/watch?v=_m44ynMTogY "History of Mixed Reality &copy; Affair Island")
+[![History AR](https://i.ytimg.com/vi/_m44ynMTogY/hqdefault.jpg)](https://www.youtube.com/watch?v=_m44ynMTogY "History of Mixed Reality &copy; Affair Island"){alt="video"}
 
 
 ## More information
-Randy Pausch. (2007, September). Really achieving your childhood dreams [Video]. TED Conferences. URL: [https://www.ted.com/talks/randy_pausch_really_achieving_your_childhood_dreams]([https://www.ted.com/talks/randy_pausch_really_achieving_your_childhood_dreams])
-Warren Robinett. Warren Robinett's Home Page. Accessed October 2023. URL: [http://warrenrobinett.com/](http://warrenrobinett.com/)
+
+- Randy Pausch. (2007, September). Really achieving your childhood dreams [Video]. TED Conferences. URL: [https://www.ted.com/talks/randy_pausch_really_achieving_your_childhood_dreams]([https://www.ted.com/talks/randy_pausch_really_achieving_your_childhood_dreams])
+
+- Warren Robinett. Warren Robinett's Home Page. Accessed October 2023. URL: [http://warrenrobinett.com/](http://warrenrobinett.com/)
 
 ::::::::::::::::::::::::::::::::::::: keypoints 
 
