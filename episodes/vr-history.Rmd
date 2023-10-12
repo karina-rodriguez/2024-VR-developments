@@ -51,7 +51,7 @@ John Barlow, Esther Dyson, Timothy Leary, William Bricken, Warren Robinett, Jaro
 
 ## Fast forward since 1990s
 
-[![History VR](https://i.ytimg.com/vi/43mA_ypfwKg/hqdefault.jpg)](https://www.youtube.com/watch?v=HelrQnm3v4g "History of Virtual Reality - Reality Check &copy; GameSpot"){alt="video"}
+[![History VR](https://i.ytimg.com/vi/43mA_ypfwKg/hqdefault.jpg)](https://www.youtube.com/watch?v=43mA_ypfwKg "History of Virtual Reality - Reality Check &copy; GameSpot"){alt="video"}
 
 [![History AR](https://i.ytimg.com/vi/_m44ynMTogY/hqdefault.jpg)](https://www.youtube.com/watch?v=_m44ynMTogY "History of Mixed Reality &copy; Affair Island"){alt="video"}
 
