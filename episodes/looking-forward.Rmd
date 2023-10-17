@@ -15,7 +15,7 @@ But what applications will be supported in the near future? Let's look at some i
 [![XR for sales](https://i.ytimg.com/vi/T56x5m8eRLU/hqdefault.jpg)](https://www.youtube.com/watch?v=T56x5m8eRLU "XR in industry sales"){alt="video"}
 
 
-![](fig/AdobeStock_474895629.jpeg){alt="metaverse"}
+![&copy; Deemerwha studio - stock.adobe.com](fig/AdobeStock_474895629.jpeg){alt="metaverse"}
 
 The **Metaverse** is a term which is lately associated with
 Virtual Reality and Virutal Worlds.

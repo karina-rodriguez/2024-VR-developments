@@ -4,7 +4,7 @@ teaching: 10
 exercises: 2
 ---
 
-![](fig/AdobeStock_628671989.jpeg){alt="barrier image"}
+![&copy; Andrii Yalanskyi - stock.adobe.com](fig/AdobeStock_628671989.jpeg){alt="barrier image"}
 The wide availability of VR/MR headsets have enable many applications in areas
 such as education, medicine, construction.
 

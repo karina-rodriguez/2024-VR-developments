@@ -6,7 +6,7 @@ exercises: 2
 
 
 ## Computer Graphics and Mixed Reality
-![](fig/AdobeStock_625890170.jpeg){alt="front banner education"}
+![&copy; Лилия Захарчук - stock.adobe.com](fig/AdobeStock_625890170.jpeg){alt="front banner education"}
 
 Mixed Reality systems have a long history in Computer Science.
 
