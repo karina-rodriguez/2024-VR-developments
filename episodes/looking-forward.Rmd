@@ -9,6 +9,7 @@ exercises: 2
 Virtual reality (VR) and Extended/Mixed Reality (XR/MR) headset unit sales worldwide are increasing.
 
 But what applications will be supported in the near future? Let's look at some insights:
+
 - Janice Fernandes, YouGov, 2022, Global: Appetite for VR activities falling around the world – except for shopping, Accessed: October 2023. URL: [https://business.yougov.com/content/42775-global-appetite-vr-activities-falling-around-world](https://business.yougov.com/content/42775-global-appetite-vr-activities-falling-around-world)
 - Workplace. Meta. 2023. The future of VR – top trends for 2023. Accessed: October 2023, URL: [https://en-gb.workplace.com/blog/the-future-of-vr](https://en-gb.workplace.com/blog/the-future-of-vr)
 
