@@ -42,6 +42,8 @@ more seamless and powerful interfaces.
 
 As software developers it is important to consider
 how to remove the barriers, such as:
+
+
 - Enabling wider generation of MR/VR experiences, such as user-generated
 - Increasing the available content
 - Fostering the interoperability of content and systems
