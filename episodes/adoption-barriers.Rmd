@@ -22,12 +22,14 @@ Which have been the challenges for the widespread consumer adoption of Virtual R
 
 A mixture of challenges are still present, such as:
 
-1. Facilitating the development of experiences
-2. Available content
-3. Accessible hardware
-4. Natural interfaces
-5. Interoperable systems
-6. Full immersion and presence
+1. Accessible hardware - specialist kit which can be expensive.
+2. Headsets are often not wearable for longer periods, need for
+natural interfaces 
+3. Lack of market, market is segmented
+4. Lack of available content beyond specialised content, e.g. games.
+5. Facilitating the development of experiences 
+6. Interoperable systems
+7. Full immersion and presence
 
 ::::::::::::::::::::::::::::::::::::: 
 
@@ -44,7 +46,7 @@ As software developers it is important to consider
 how to remove the barriers, such as:
 
 
-- Enabling wider generation of MR/VR experiences, such as user-generated
+- Enabling wider generation of MR/VR experiences, such as user-generated (e.g. [Engage](https://engagevr.io/)).
 - Increasing the available content
 - Fostering the interoperability of content and systems
 - Further developing our understanding of immersiveness
