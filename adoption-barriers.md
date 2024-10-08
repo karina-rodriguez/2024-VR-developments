@@ -4,9 +4,8 @@ teaching: 10
 exercises: 2
 ---
 
-![&copy; Andrii Yalanskyi - stock.adobe.com](fig/AdobeStock_628671989.jpeg){alt="barrier image"}
-The wide availability of VR/MR headsets have enable many applications in areas
-such as education, medicine, construction.
+![&copy; Andrii Yalanskyi - stock.adobe.com](fig/AdobeStock_628671989.jpeg){alt="barrier image" width='500px'}
+
 
 Despite the many advances in computer graphics and the availability
 of accessible hardware and tool kits for Virtual and Mixed Reality systems, 
@@ -16,30 +15,32 @@ Let's explore this in more detail.
 
 ::::::::::::::::::::::::::::::::::::: challenge
 
-Which have been the challenges for the widespread consumer adoption of Virtual Reality technologies in the last 40 decades?
+Which have been the challenges for the widespread consumer adoption of Virtual Reality technologies in the last decade?
+https://PollEv.com/surveys/rlsSYMZF7hiZ1QxTCyLCX/respond
 
 :::::::::::::::::::::::: solution 
 
-A mixture of challenges are still present, such as:
+A mixture of challenges are still present, try to order them:
 
-1. Accessible hardware - specialist kit which can be expensive.
-2. Headsets are often not wearable for longer periods, need for
-natural interfaces 
-3. Lack of market, market is segmented
-4. Lack of available content beyond specialised content, e.g. games.
-5. Facilitating the development of experiences 
-6. Interoperable systems
-7. Full immersion and presence
-
+- Accessible hardware - specialist kit can still be expensive.
+- Headsets are often not wearable for longer periods.
+- Natural interfaces, full immersion and presence is not yet possible.
+- Systems are not interoperable - drives price of development upwards.
+- Lack of available content beyond specialised content, e.g. games.
+- Market  for headset is too segmented and saturated.
+- Augmented Reality (AR) Competition
 ::::::::::::::::::::::::::::::::::::: 
 
 ::::::::::::::::::::::::::::::::::::: 
 
 ## Informing our approach
+
 Understanding how to overcome these challenges is important for our
 approach for building VR applications.
 
-Hardware and its processing power will continue to improve to create
+Hardware, sensors and wearables
+and its processing power/graphics capabilities will continue 
+to improve to create
 more seamless and powerful interfaces.
 
 As software developers it is important to consider
@@ -54,7 +55,6 @@ how to remove the barriers, such as:
 For example, recent studies[^1] in immersiveness have shown that:
 
 
-
 > The majority of studies have shown that ... realism has a positive impact on user experience ...
 
 > Haptic stimuli are the most supported to improve the perceived environment realism.
@@ -63,7 +63,7 @@ For example, recent studies[^1] in immersiveness have shown that:
 
 [^1]: Guilherme Gonçalves, Hugo Coelho, Pedro Monteiro, Miguel Melo, and Maximino Bessa. 2022. Systematic Review of Comparative Studies of the Impact of Realism in Immersive Virtual Experiences. ACM Comput. Surv. 55, 6, Article 115 (June 2023), 36 pages. https://doi.org/10.1145/3533377
 
-## More infromation:
+### More infromation:
 - Logan Kugler (2021) The State of Virtual Reality Hardware In Communications of the ACM, Vol. 64 No. 2, Pages 15-16 DOI. [10.1145/3441290](https://m-cacm.acm.org/magazines/2021/2/250071-the-state-of-virtual-reality-hardware/abstract)
 
 ::::::::::::::::::::::::::::::::::::: keypoints 
