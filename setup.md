@@ -2,4 +2,4 @@
 title: Setup
 ---
 
-This is a thought session. No setup is required.
+No setup is required, as it is mostly accessing videos and external resources.
