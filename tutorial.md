@@ -29,10 +29,10 @@ You don't need to worry about connecting to the VR headset yet.
 
 If you have previous experience creating
 3D scenes, you can find previous projects
-and see wheter you can port them to a newer
+and see whether can port them to a newer
 version or another game engine.
 
-The basic steps are as follows:
+The basic steps to follow are as follows:
 
 #### 1. Design the space
 
