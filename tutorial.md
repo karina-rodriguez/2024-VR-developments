@@ -59,6 +59,3 @@ Implement a set of simple interactions, e.g. such as tap an object to bring some
 Consider which impact does it have to not have access to a mouse and keyboard on a VR environment both for navigating and accessing information.
 
 
-
-
-For APIs, please look at: https://cospaces.io/api/ for coSpaces and https://docs.unity3d.com/Manual/index.html for Unity.
