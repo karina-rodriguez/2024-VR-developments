@@ -53,11 +53,40 @@ Humans have a slightly over 210-degree forward-facing horizontal arc of their vi
 other related terms have been used to describe
 these technologies. Let's explore more the founders of these ideas.
 
+::::::::::::::::::::::::::::::::::::: challenge 
+
+## Let's look at definitions
+
+- [What are the key elements of a Virtual Reality Systems?](https://PollEv.com/free_text_polls/QvVXqjPKVVtMQFaAQbCch/respond)
+
+:::::::::::::::::::::::::::::::::
+
+## Definitions
+- What is a VR System?
+- What is an Extended Reality (XR) System?
+- Which techniques and technologies are relevant for these systems?
+
+
+In 1987, [computer scientists developed](https://dl.acm.org/doi/10.1145/319120.319127) 
+"head-mounted, wide-angle, stereoscopic display systems" that were controlled by the user's position. 
+"The system provides a multisensory, interactive display environment in which a user can virtually explore a 360-degree synthesized or remotely sensed environment and can viscerally interact with its components."[^1][^2].
+
+This definition frames Virtual Reality Systems as interfaces to interactive, computer-generated environments.
+A Virtual Reality (VR) system immerses users in a fully simulated environment, 
+often experienced through devices like headsets, gloves, and motion controllers.
+
+Extended reality, on the other hand, introduces varying degrees of integration between the physical 
+world and digital environments. These systems range from fully immersing users in a virtual space to 
+enabling interaction with both the real and virtual worlds simultaneously.
+
+Developing these systems involves techniques from software engineering, 
+linked data, computer graphics, and system design, 
+making these disciplines essential to building immersive environments.
+
 
 ## The Three Faces of Virtual Worlds
 
-The panel at SIGGRAPH 1990 featuring prominent thinkers like John Barlow, Esther Dyson, Timothy Leary, 
-William Bricken, Warren Robinett, and Jaron Lanier, with Bob Jacobson as the chair, 
+The panel at SIGGRAPH 1990 [^2] featuring prominent thinkers like John Barlow, Esther Dyson, Timothy Leary, William Bricken, Warren Robinett, and Jaron Lanier, with Bob Jacobson as the chair, 
 explored the potential and challenges of virtual worlds in three key dimensions. 
 Their discussion explore the cultural "hip" around  virtual worlds, which were surrounded by the "hype".
 They explored how VR value lies in the "hope" that they offer for new ways of interaction, 
@@ -69,16 +98,11 @@ which surround the user through additional hardware, such as gloves, clothing,
 and goggles. 
 
 
-John Barlow, Esther Dyson, Timothy Leary, William Bricken, Warren Robinett, Jaron Lanier, 
-and Bob Jacobson. 1990. *Hip, hype and hope—the three faces of virtual worlds (panel session)*. 
-In ACM SIGGRAPH 90 Panel Proceedings (SIGGRAPH '90). Association for Computing Machinery, New York, NY, USA, 1001–1029. [https://doi.org/10.1145/328750.328798](https://doi.org/10.1145/328750.328798)
-
-
 
 
 ::::::::::::::::::::::::::::::::::::: challenge 
 
-### Challenge: Explore the following article in 5 minutes
+### Challenge: Explore the article in 5 minutes
 
 Consider the following questions in relation to the article:
 
@@ -122,3 +146,10 @@ building the virtual worlds from the inside.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
+## More information
+
+[^1]: S. S. Fisher, M. McGreevy, J. Humphries, and W. Robinett. 1987. *Virtual environment display system.* In Proceedings of the 1986 workshop on Interactive 3D graphics (I3D '86). Association for Computing Machinery, New York, NY, USA, 77–87. https://doi.org/10.1145/319120.319127
+
+[^2]: John Barlow, Esther Dyson, Timothy Leary, William Bricken, Warren Robinett, Jaron Lanier, 
+and Bob Jacobson. 1990. *Hip, hype and hope—the three faces of virtual worlds (panel session)*. 
+In ACM SIGGRAPH 90 Panel Proceedings (SIGGRAPH '90). Association for Computing Machinery, New York, NY, USA, 1001–1029. [https://doi.org/10.1145/328750.328798](https://doi.org/10.1145/328750.328798)
